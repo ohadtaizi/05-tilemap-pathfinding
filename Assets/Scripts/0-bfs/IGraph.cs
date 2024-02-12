@@ -10,4 +10,7 @@
  */
 public interface IGraph<T> {
     IEnumerable<T> Neighbors(T node);
+
 }
+
+
